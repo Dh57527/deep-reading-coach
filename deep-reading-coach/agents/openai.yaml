@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deep Reading Coach"
+  short_description: "英语深度阅读陪练：预读预测、逐段精读、语言点提取、出题实战"
+  default_prompt: "请用 deep-reading-coach 帮我精读这段英文文本，难度标注为：____（四级／六级／考研）。"
